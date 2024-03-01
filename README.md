@@ -21,6 +21,8 @@
 * Write your `app.js` code
 *     npm install -g nodemon
 *     nodemon app
+* OR
+*     npx nodemon app
 * Go to your atlas now, and `connect` your cluster
 * Select the `Drivers`
 * Copy your `Connection String` to add to your code
