@@ -24,7 +24,7 @@
 * Go to your atlas now, and `connect` your cluster
 * Select the `Drivers`
 * Copy your `Connection String` to add to your code
-* Paste this string in the `app.js` `connect().
+* Paste this string in the `app.js` `connect()`.
 * Replace your `user password` there.
 * Write your remaining code
 
